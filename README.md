@@ -40,7 +40,7 @@ The details about all the columns are given in the following data dictionary -
 | EstimatedSalary | Estimated Salary of each Customer |
 | **Exited** | **Customer left the bank or Not (Target Variable)** |
 
-## Working Flow :
+## Working Flow -
 In order to create a model these are the following procedure - 
 
 - Split the dataset in 70% of Train set and 30% of Test Set
