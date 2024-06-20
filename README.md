@@ -1,8 +1,6 @@
-# Bank-Customer-Churn-Prediction
+# Bank Customer Churn Prediction
 
-![image](https://user-images.githubusercontent.com/58620359/174948746-5dc3418a-8296-4cc8-9561-f8f12ca9a0a4.png)
-
-## Problem Statement :
+## Problem Statement  - 
 
 Customer churn / customer attrition : 
 It is the tendency of clients or customers to abandon a brand and stop being a paying client of a particular business or organization.
@@ -12,7 +10,7 @@ The percentage of customers that discontinue using a company’s services or pro
 A reputed bank “ABC BANK” wants to predict the Churn rate. 
 Create a model by using different machine learning approaches that can predict the best result. 
 
-## Dataset Description :
+## Description of Dataset -
 
 This is a public dataset, The dataset format is given below.
  
